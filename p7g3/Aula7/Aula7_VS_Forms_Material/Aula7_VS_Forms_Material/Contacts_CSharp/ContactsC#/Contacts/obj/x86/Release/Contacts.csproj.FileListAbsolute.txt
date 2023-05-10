@@ -1,0 +1,11 @@
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\bin\Release\Contacts.exe.config
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\bin\Release\Contacts.exe
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\bin\Release\Contacts.pdb
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.csproj.AssemblyReference.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.Form1.resources
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.csproj.GenerateResource.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.exe
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\Aula7\Aula7_VS_Forms_Material\Aula7_VS_Forms_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Release\Contacts.pdb

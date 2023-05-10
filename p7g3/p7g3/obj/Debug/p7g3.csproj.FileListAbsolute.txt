@@ -1,0 +1,11 @@
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\bin\Debug\p7g3.exe.config
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\bin\Debug\p7g3.exe
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\bin\Debug\p7g3.pdb
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.csproj.AssemblyReference.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.Form1.resources
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.Properties.Resources.resources
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.csproj.GenerateResource.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.csproj.CoreCompileInputs.cache
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.exe
+C:\Users\Adalb\Desktop\Terceiro_Ano\Base de Dados\p7g3\p7g3\obj\Debug\p7g3.pdb
