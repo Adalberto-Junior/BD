@@ -1,0 +1,14 @@
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\bin\Debug\ProjetoBDrestauracao.exe.config
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\bin\Debug\ProjetoBDrestauracao.exe
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\bin\Debug\ProjetoBDrestauracao.pdb
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.Properties.Resources.resources
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.exe
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.pdb
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.ProjetoMain.resources
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.AddEmpregado.resources
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.AddConta.resources
+C:\Users\Leandro\Desktop\SemestreAtual\BasesDados\APFT\ProjetoBDrestauracao\ProjetoBDrestauracao\obj\Debug\ProjetoBDrestauracao.AddProduto.resources
